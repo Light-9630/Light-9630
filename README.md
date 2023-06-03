@@ -5,5 +5,5 @@
 
 <!---
 Light-9630/Light-9630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the  Preview link to take a look at your changes.
+You can click the  Preview l ink to take a look at your changes.
 --->
