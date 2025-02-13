@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prakash
-- 👀 I’m interested in competitive programmming
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me : Reach me at prakashlight1253@gmail.com for collaboration
 
 <!---
